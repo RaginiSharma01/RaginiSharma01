@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RaginiSharma01
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning database
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me www.linkedin.com/in/ragini-sharma01
 
