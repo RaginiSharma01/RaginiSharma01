@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
 <h1 align="center"> About Me: </h1>
 <span style="color:#1E90FF;"><b>👋 Hi, I’m @RaginiSharma01</b></span><br>
-<span style="color:#FFD700;"><b>👀 I’m interested in web development and ML</b></span><br>
+<span style="color:#FFD700;"><b>👀 I’m interested in web development and Open Source</b></span><br>
 <span style="color:#32CD32;"><b>💞️ I’m looking to collaborate on open source projects</b></span><br>
 <span style="color:#FF6347;"><b>📫 How to reach me: <a href="https://www.linkedin.com/in/ragini-sharma01" target="_blank">www.linkedin.com/in/ragini-sharma01</a></b></span>
 
