@@ -42,11 +42,6 @@ i write software for a living and have primarily worked on `frontend development
 
 ---
 
-###  Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaginiSharma01&layout=compact&theme=minimal&hide_border=true)
-
----
 
 ###  What I'm up to
 -  Building full-stack web applications
