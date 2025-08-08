@@ -8,10 +8,20 @@
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 BE 
-- 💻 MERN Stack Developer | AI/ML Enthusiast  
-- 🌱 Currently contributing to **[Cilium](https://github.com/cilium)**  
+<h1 align="center">👩‍💻 About Me</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Degree-BE%20in%20EEE-8A2BE2?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stack-MERN%20Developer-FF4500?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Interest-AI%20%7C%20ML-FFD700?style=for-the-badge&logo=ai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Cilium-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+  🌱 I’m always learning, building, and contributing to projects that solve real-world problems.  
+  🌏 Goal: Become a Software Engineer in Japan 🇯🇵  
+</p>
+ 
   
 
 ---
