@@ -54,9 +54,7 @@ i write software for a living and have primarily worked on `frontend development
 ###  Get in touch
 - LinkedIn: [ragini-sharma01](https://www.linkedin.com/in/ragini-sharma01)
 - Twitter: [@Ragini01s](https://x.com/Ragini01s)
-- LeetCode: [raginiSharma01](https://leetcode.com/u/raginiSharma01/)
 - Instagram: [ragini_sharmaa1](https://www.instagram.com/ragini_sharmaa1/)
-- Email: your.email@domain.com
 - Open to collaborations and interesting conversations!
 
 ---
