@@ -9,10 +9,10 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 BE in Electrical & Electronics Engineering + Minor in AI  
+- 🎓 BE 
 - 💻 MERN Stack Developer | AI/ML Enthusiast  
 - 🌱 Currently contributing to **[Cilium](https://github.com/cilium)**  
-- 🎯 Goal: Work as a **Software Engineer in Japan 🇯🇵**  
+  
 
 ---
 
