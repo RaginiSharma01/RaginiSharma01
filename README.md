@@ -10,13 +10,13 @@ i write software for a living and have primarily worked on `frontend development
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 `JavaScript` `React` `Node.js` `Express` `MongoDB` `HTML5` `CSS3` `Git`
 
-### 🌱 Currently Learning
+###  Currently Learning
 `TypeScript` `Next.js` `AWS` `System Design`
 
-### 💪 Problem Solving
+###  Problem Solving
 `LeetCode` `Data Structures` `Algorithms` `Competitive Programming`
 
 ---
@@ -29,11 +29,11 @@ i write software for a living and have primarily worked on `frontend development
 
 ---
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaginiSharma01&theme=minimal&hide_border=true)
 
-### 📊 Activity Overview
+###  Activity Overview
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaginiSharma01&theme=default)
 
@@ -42,21 +42,21 @@ i write software for a living and have primarily worked on `frontend development
 
 ---
 
-### 💻 Languages
+###  Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaginiSharma01&layout=compact&theme=minimal&hide_border=true)
 
 ---
 
-### 🎯 What I'm up to
-- 🔭 Building full-stack web applications
-- 🌍 Contributing to open source projects  
-- 📚 Learning system design and scalability
-- 💡 Exploring new frameworks and technologies
+###  What I'm up to
+-  Building full-stack web applications
+-  Contributing to open source projects  
+-  Learning system design and scalability
+-  Exploring new frameworks and technologies
 
 ---
 
-### 📫 Get in touch
+###  Get in touch
 - LinkedIn: [ragini-sharma01](https://www.linkedin.com/in/ragini-sharma01)
 - Twitter: [@Ragini01s](https://x.com/Ragini01s)
 - LeetCode: [raginiSharma01](https://leetcode.com/u/raginiSharma01/)
