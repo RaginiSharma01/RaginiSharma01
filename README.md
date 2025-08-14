@@ -1,6 +1,5 @@
 **Hi there 👋, I'm Ragini**
 
-i write software for a living and have primarily worked on `frontend development` and `full-stack applications` interested in anything @ `react ecosystem` & `modern web technologies`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragini-sharma01)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/RaginiSharma01)
