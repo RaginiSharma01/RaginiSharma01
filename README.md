@@ -4,8 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragini-sharma01)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/RaginiSharma01)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/raginiSharma01/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://x.com/Ragini01s)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/ragini_sharmaa1/)
 
 ---
 
@@ -48,14 +46,6 @@
 -  Learning system design and scalability
 -  Exploring new frameworks and technologies
 
----
 
-###  Get in touch
-- LinkedIn: [ragini-sharma01](https://www.linkedin.com/in/ragini-sharma01)
-- Twitter: [@Ragini01s](https://x.com/Ragini01s)
-- Instagram: [ragini_sharmaa1](https://www.instagram.com/ragini_sharmaa1/)
-- Open to collaborations and interesting conversations!
-
----
 
 If you appreciate my work, maybe consider giving my repositories a ⭐ to show your support.
