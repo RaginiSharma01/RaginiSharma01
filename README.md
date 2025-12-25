@@ -23,25 +23,6 @@
 
 ---
 
-###  Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaginiSharma01&theme=minimal&hide_border=true)
-
-###  Activity Overview
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaginiSharma01&theme=default)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaginiSharma01&theme=default)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaginiSharma01&theme=default&utcOffset=5.5)
-
----
-
-
-###  What I'm up to
--  Building full-stack web applications
--  Contributing to open source projects  
--  Learning system design and scalability
--  Exploring new frameworks and technologies
 
 
 
