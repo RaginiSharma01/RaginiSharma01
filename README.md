@@ -8,10 +8,7 @@
 ---
 
 ###  Tech Stack
-`JavaScript` `React` `Node.js` `Express` `MongoDB` `HTML5` `CSS3` `Git`
-
-###  Currently Learning
-`TypeScript` `Next.js` `AWS` `System Design`
+`JavaScript` `Java` ` Ruby on rails` ` React` ` sql`
 
 ###  Problem Solving
 `LeetCode` `Data Structures` `Algorithms`
