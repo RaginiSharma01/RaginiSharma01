@@ -1,4 +1,4 @@
-**Hi there 👋, I'm Ragini**
+**Hi there 👋, I'm Ragini Sharma**
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragini-sharma01)
@@ -14,7 +14,7 @@
 `TypeScript` `Next.js` `AWS` `System Design`
 
 ###  Problem Solving
-`LeetCode` `Data Structures` `Algorithms` `Competitive Programming`
+`LeetCode` `Data Structures` `Algorithms`
 
 ---
 
