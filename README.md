@@ -12,7 +12,7 @@
 
 ### 📊 GitHub Stats
 
-![Ragini's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaginiSharma01&show_icons=true&theme=minimal&hide_border=true)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaginiSharma01&theme=minimal&hide_border=true)
 
