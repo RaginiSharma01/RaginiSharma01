@@ -1,10 +1,5 @@
 **Hi there 👋, I'm Ragini Sharma**
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragini-sharma01)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/RaginiSharma01)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/raginiSharma01/)
-
 ---
 
 ###  Tech Stack
