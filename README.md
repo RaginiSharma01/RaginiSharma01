@@ -3,7 +3,7 @@
 ---
 
 ###  Tech Stack
-`JavaScript` `Java` ` Ruby on rails` ` React` ` sql`
+`JavaScript` `Java`  ` React` ` sql`
 
 
 
