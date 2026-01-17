@@ -3,7 +3,7 @@
 ---
 
 ###  Tech Stack
-`JavaScript` `Java`  ` React` ` sql`
+`JavaScript` `Java` `Go` ` React` ` sql`
 
 
 
