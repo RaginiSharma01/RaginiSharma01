@@ -1,17 +1,15 @@
 
 Hi there 👋
-I am Ragini Sharma, a Backend Developer and an Open Source Enthusiast
+I am **Ragini Sharma**, a Backend Developer and an Open Source Enthusiast.
 
-Currently:
+**Currently:**
 
-💼 Backend developer Intern @diamante-io.
-
+💼 Backend Developer Intern @ [Diamante](https://www.diamante.io/)
 🎓 Final Year Student
 
-Tech Stack: Golang, Java, JavaScript
+**Tech Stack:** Golang, Java, JavaScript
 
-Connect:
-
+**Connect:**
 https://www.linkedin.com/in/ragini-sharma01/
 
 Let's chat about: full-stack, open-source, collaboration, or just for fun 💬
