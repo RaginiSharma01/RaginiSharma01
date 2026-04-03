@@ -4,7 +4,7 @@ I am Ragini Sharma, a Backend Developer and an Open Source Enthusiast
 
 Currently:
 
-💼 Backend developer Intern @Diamante.
+💼 Backend developer Intern @Diamante (diamante-io).
 
 🎓 Final Year Student
 
