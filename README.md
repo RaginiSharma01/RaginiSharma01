@@ -11,6 +11,7 @@ I am **Ragini Sharma**, a Backend Developer and an Open Source Enthusiast.
 **Tech Stack:** Golang, Java, JavaScript
 
 **Connect:**
-https://www.linkedin.com/in/ragini-sharma01/
+[Linkedin](https://www.linkedin.com/in/ragini-sharma01/)
+
 
 Let's chat about: full-stack, open-source, collaboration, or just for fun 💬
