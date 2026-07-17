@@ -13,7 +13,7 @@ I am **Ragini Sharma**, a Backend Developer and an Open Source Enthusiast.
 **Frameworks & Technologies:** Fiber, React.js, Next.js, PostgreSQL, Redis, Docker, Git, Hyperledger Fabric
 
 **Connect:**
-[Linkedin](https://www.linkedin.com/in/ragini-sharma01/) [X](https://x.com/raginis_kafila)
+[Linkedin](https://www.linkedin.com/in/ragini-sharma01/), [X](https://x.com/raginis_kafila), 
 
 
 Let's chat about: full-stack, open-source, collaboration, or just for fun 💬
