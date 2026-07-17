@@ -9,6 +9,7 @@ I am **Ragini Sharma**, a Backend Developer and an Open Source Enthusiast.
 🎓 Final Year Student
 
 **Tech Stack:** Golang, Java, JavaScript, Python
+
 **Frameworks & Technologies:** Fiber, React.js, Next.js, PostgreSQL, Redis, Docker, Git, Hyperledger Fabric
 
 **Connect:**
